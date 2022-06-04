@@ -10,13 +10,13 @@ tags:
   - blue
   - pink
 ---
+![](/img/coffee-gear.png)
+
 something written
 
 * in
 * > markdown
   > *hello* ^**how**^ ***are***
-
-
 
   ```
   10 print "hello"
