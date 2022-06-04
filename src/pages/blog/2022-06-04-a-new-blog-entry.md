@@ -3,7 +3,7 @@ templateKey: blog-post
 title: A new blog entry
 date: 2022-06-04T00:15:48.743Z
 description: something something
-featuredpost: false
+featuredpost: true
 featuredimage: /img/apple-touch-icon.png
 tags:
   - red
